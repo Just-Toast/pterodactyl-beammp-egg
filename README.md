@@ -2,6 +2,9 @@
 Working BeamMP egg for pterodactyl
 
 
+Want feature added? You can contact me! Or make a request in github!
+
+
 How to install!
 
 1. Open pterodactyl
